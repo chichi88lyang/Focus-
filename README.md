@@ -2,4 +2,4 @@
 practice javaScript
 
 
-Just practicing and playing around with some code.
+Trying out something 
